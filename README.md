@@ -1,7 +1,7 @@
-# Alien Hunter
+# Xenocide
 
 
-**Alien Hunter** is a 2D arcade-style shooting game developed using Java and LibGDX. Players are tasked with identifying and shooting specific alien targets amidst a crowd of other aliens. As players progress through levels, the crowds become denser, increasing the challenge.
+**Xenocide** is a 2D arcade-style shooting game developed using Java and LibGDX. Players are tasked with identifying and shooting specific alien targets amidst a crowd of other aliens. As players progress through levels, the crowds become denser, increasing the challenge.
 
 
 ![Alien Hunter Animation](assets/demo_animation.gif)
@@ -10,7 +10,7 @@
 
 ## 🎮 Play the Game
 
-Experience **Alien Hunter** live at [tridvajedan.itch.io/alienassassin](https://tridvajedan.itch.io/alienassassin).
+Experience **Xenocide** live at [tridvajedan.itch.io/alienassassin](https://tridvajedan.itch.io/alienassassin).
 
 ---
 
@@ -24,7 +24,7 @@ Experience **Alien Hunter** live at [tridvajedan.itch.io/alienassassin](https://
 
 ## ⚙️ Installation
 
-To run **Alien Hunter** locally:
+To run **Xenocide** locally:
 
 1. Clone the repository:
 ```
